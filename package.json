@@ -1,0 +1,28 @@
+{
+  "name": "@37degree/website-trust-audit",
+  "version": "1.0.0",
+  "description": "5-point website trust audit — the exact check 37degree runs before redesigning a client's site",
+  "keywords": [
+    "claude",
+    "claude-skill",
+    "website-audit",
+    "trust-audit",
+    "cro",
+    "conversion",
+    "37degree"
+  ],
+  "homepage": "https://github.com/haneef-aslam/37degree#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haneef-aslam/37degree.git"
+  },
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
