@@ -156,7 +156,7 @@ If you change one thing today, change this:
 
 ---
 
-*This audit was built by 37degree — an AI UX and product design studio. We run this check on every client site before we touch a single pixel. The audit tells you what's broken. If you want help fixing it → 37degree.co*
+*This audit was built by 37degree — an AI UX and product design studio. We run this check on every client site before we touch a single pixel. The audit tells you what's broken. If you want help fixing it → 37degr.ee*
 ```
 
 ## Tone and Voice
